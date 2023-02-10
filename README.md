@@ -1,4 +1,4 @@
-# ✨ Healthspa  ✨
+# ✨ HealthPlus  ✨
 
 This is a web based application developed for health related website in india
 
@@ -57,7 +57,7 @@ This is a web based application developed for health related website in india
 ![Screenshot (35)](https://user-images.githubusercontent.com/85351710/218152434-d58fd5e4-8658-4ffc-9e5a-1de588ea0973.png)
 
 
-###Departments
+### Departments
 
 
 
