@@ -19,7 +19,7 @@ This is a web based application developed for health related website in india
 - Has many graphical and visual innovative effects.
 - Included the feedback Survey form to increase the scope of improvement 
 
-## Azure technologiesused for Project
+## Azure technologies used for Project
 - Static web apps
 - Healthy bot
 
