@@ -78,8 +78,7 @@ This is a web based application developed for health related website in india
 ### Healthy Bot
 
 
-![Uploading Screenshot (40).png…]()
-
+![Screenshot (40)](https://user-images.githubusercontent.com/85351710/218240786-521d13f4-78c1-41c4-b6f6-f1277bcccf2f.png)
 
 
 ## Tech Stack
