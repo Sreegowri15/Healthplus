@@ -7,7 +7,7 @@ This is a web based application developed for health related website in india
 
 **Project Link** - https://yellow-sky-01cd54e00.2.azurestaticapps.net/
 
-**Project demo video link**. - 
+**Project demo video link** - https://youtu.be/IOSV4E4EV0k
 
 
 ## Features and Functionalities
